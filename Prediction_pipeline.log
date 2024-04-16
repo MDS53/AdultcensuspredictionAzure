@@ -1,0 +1,111 @@
+2024-04-16 14:26:51,181 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:26:51,182 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 14:26:51,183 INFO  * Restarting with stat
+2024-04-16 14:26:52,098 WARNING  * Debugger is active!
+2024-04-16 14:26:52,102 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:27:20,051 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:27:20,061 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 14:27:20,062 INFO  * Restarting with stat
+2024-04-16 14:27:20,946 WARNING  * Debugger is active!
+2024-04-16 14:27:20,949 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:27:46,333 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:27:46,385 INFO  * Restarting with stat
+2024-04-16 14:27:47,235 WARNING  * Debugger is active!
+2024-04-16 14:27:47,238 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:27:52,316 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:27:52,368 INFO  * Restarting with stat
+2024-04-16 14:27:53,208 WARNING  * Debugger is active!
+2024-04-16 14:27:53,212 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:29:53,440 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:29:53,441 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 14:29:53,442 INFO  * Restarting with stat
+2024-04-16 14:29:54,235 WARNING  * Debugger is active!
+2024-04-16 14:29:54,238 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:30:41,940 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:30:41,998 INFO  * Restarting with stat
+2024-04-16 14:30:51,698 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:30:51,698 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 14:30:51,699 INFO  * Restarting with stat
+2024-04-16 14:30:52,506 WARNING  * Debugger is active!
+2024-04-16 14:30:52,509 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:30:58,169 INFO 127.0.0.1 - - [16/Apr/2024 14:30:58] "GET / HTTP/1.1" 200 -
+2024-04-16 14:30:58,225 INFO 127.0.0.1 - - [16/Apr/2024 14:30:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-16 14:31:29,456 INFO 127.0.0.1 - - [16/Apr/2024 14:31:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-16 14:31:29,759 INFO 127.0.0.1 - - [16/Apr/2024 14:31:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-16 14:31:29,792 INFO 127.0.0.1 - - [16/Apr/2024 14:31:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-16 14:31:30,138 INFO 127.0.0.1 - - [16/Apr/2024 14:31:30] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-16 14:31:30,380 INFO 127.0.0.1 - - [16/Apr/2024 14:31:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-16 14:32:04,541 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:32:04,596 INFO  * Restarting with stat
+2024-04-16 14:32:05,452 WARNING  * Debugger is active!
+2024-04-16 14:32:05,456 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:32:06,481 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:32:06,531 INFO  * Restarting with stat
+2024-04-16 14:32:07,451 WARNING  * Debugger is active!
+2024-04-16 14:32:07,455 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:32:08,471 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:32:08,522 INFO  * Restarting with stat
+2024-04-16 14:32:09,332 WARNING  * Debugger is active!
+2024-04-16 14:32:09,336 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:32:14,424 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:32:14,474 INFO  * Restarting with stat
+2024-04-16 14:32:15,322 WARNING  * Debugger is active!
+2024-04-16 14:32:15,325 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:32:25,483 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:32:25,535 INFO  * Restarting with stat
+2024-04-16 14:32:26,405 WARNING  * Debugger is active!
+2024-04-16 14:32:26,408 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:32:29,454 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:32:29,509 INFO  * Restarting with stat
+2024-04-16 14:32:30,364 WARNING  * Debugger is active!
+2024-04-16 14:32:30,367 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:32:35,069 ERROR Exception occured at Prediction pipeline class from prediction pipeline
+2024-04-16 14:32:35,070 ERROR 'list' object has no attribute 'input_d'
+2024-04-16 14:32:35,072 INFO 127.0.0.1 - - [16/Apr/2024 14:32:35] "POST / HTTP/1.1" 200 -
+2024-04-16 14:36:13,567 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:36:13,622 INFO  * Restarting with stat
+2024-04-16 14:36:14,498 WARNING  * Debugger is active!
+2024-04-16 14:36:14,502 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:36:15,532 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Modular_prog2.py', reloading
+2024-04-16 14:36:15,584 INFO  * Restarting with stat
+2024-04-16 14:36:16,415 WARNING  * Debugger is active!
+2024-04-16 14:36:16,419 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:36:22,307 INFO Prediction pipeline class from prediction pipeline executed successfully
+2024-04-16 14:36:22,309 INFO 127.0.0.1 - - [16/Apr/2024 14:36:22] "POST / HTTP/1.1" 200 -
+2024-04-16 14:36:38,460 INFO 127.0.0.1 - - [16/Apr/2024 14:36:38] "GET / HTTP/1.1" 200 -
+2024-04-16 14:38:43,775 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:38:43,775 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 14:38:43,776 INFO  * Restarting with stat
+2024-04-16 14:38:44,577 WARNING  * Debugger is active!
+2024-04-16 14:38:44,580 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:38:49,669 INFO 127.0.0.1 - - [16/Apr/2024 14:38:49] "GET / HTTP/1.1" 200 -
+2024-04-16 14:42:08,694 INFO 127.0.0.1 - - [16/Apr/2024 14:42:08] "GET / HTTP/1.1" 200 -
+2024-04-16 14:42:30,995 INFO Prediction pipeline class from prediction pipeline executed successfully
+2024-04-16 14:42:30,996 INFO 127.0.0.1 - - [16/Apr/2024 14:42:30] "POST / HTTP/1.1" 200 -
+2024-04-16 14:43:57,136 INFO  * Detected change in 'C:\\Users\\new\\OneDrive\\Desktop\\Projects\\Adult\\ML Pipeline\\Prediction_pipeline.py', reloading
+2024-04-16 14:43:57,205 INFO  * Restarting with stat
+2024-04-16 14:48:36,625 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 14:48:36,625 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 14:48:36,626 INFO  * Restarting with stat
+2024-04-16 14:48:37,443 WARNING  * Debugger is active!
+2024-04-16 14:48:37,446 INFO  * Debugger PIN: 125-441-447
+2024-04-16 14:48:44,567 INFO Prediction pipeline class from prediction pipeline executed successfully
+2024-04-16 14:48:44,567 INFO Home page executed successfully in POST method
+2024-04-16 14:48:44,569 INFO 127.0.0.1 - - [16/Apr/2024 14:48:44] "POST / HTTP/1.1" 200 -
+2024-04-16 14:48:45,480 INFO Home page executed successfully in GET method
+2024-04-16 14:48:45,482 INFO 127.0.0.1 - - [16/Apr/2024 14:48:45] "GET / HTTP/1.1" 200 -
+2024-04-16 14:48:50,328 INFO Prediction pipeline class from prediction pipeline executed successfully
+2024-04-16 14:48:50,328 INFO Home page executed successfully in POST method
+2024-04-16 14:48:50,329 INFO 127.0.0.1 - - [16/Apr/2024 14:48:50] "POST / HTTP/1.1" 200 -
+2024-04-16 16:57:45,489 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 16:57:45,489 INFO [33mPress CTRL+C to quit[0m
+2024-04-16 16:57:45,490 INFO  * Restarting with stat
+2024-04-16 16:57:46,331 WARNING  * Debugger is active!
+2024-04-16 16:57:46,336 INFO  * Debugger PIN: 125-441-447
